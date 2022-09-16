@@ -1,4 +1,4 @@
-package moi.com.apps.alarcal;
+package com.example.calendar;
 
 import org.junit.Test;
 

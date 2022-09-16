@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "moi.com.apps.alarcal"
+        applicationId "com.example.calendar"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
